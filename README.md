@@ -1,3 +1,3 @@
-# Dashboardl
+# Dashboardle
 
-A dashboard for your ls
+A dashboard for your le.
